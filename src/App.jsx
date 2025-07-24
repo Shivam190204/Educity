@@ -1,10 +1,5 @@
 import React, { useState } from 'react';
-// Standardized import paths for consistency and Vercel compatibility
-// Ensure your actual file/folder names on GitHub match this casing:
-// e.g., src/components/Navbar/Navbar.jsx
-//       src/components/Hero/Hero.jsx
-//       src/components/Programs/Programs.jsx (folder 'Programs', not 'programs')
-//       ...and so on for all components.
+
 
 import Navbar from './components/Navbar/Navbar';
 import Hero from './components/Hero/Hero';
