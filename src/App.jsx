@@ -6,7 +6,7 @@ import Hero from './Components/Hero/Hero';
 import Programs from './Components/Programs/Programs'; // Corrected folder casing
 import Title from './Components/Title/Title';
 import About from './Components/About/About';
-import Campus from './Components/Campus/Campus'; // Corrected folder casing
+import Campus from './Components/campus/Campus'; // Corrected folder casing
 import Testimonials from './Components/Testimonials/Testimonials';
 import Contact from './Components/Contact/Contact';
 import Footer from './Components/Footer/Footer';
