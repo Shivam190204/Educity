@@ -1,16 +1,16 @@
 import React, { useState } from 'react';
 
 
-import Navbar from './components/Navbar/Navbar';
-import Hero from './components/Hero/Hero';
-import Programs from './components/Programs/Programs'; // Corrected folder casing
-import Title from './components/Title/Title';
-import About from './components/About/About';
-import Campus from './components/Campus/Campus'; // Corrected folder casing
-import Testimonials from './components/Testimonials/Testimonials';
-import Contact from './components/Contact/Contact';
-import Footer from './components/Footer/Footer';
-import Videoplayer from './components/Videoplayer/Videoplayer';
+import Navbar from './Components/Navbar/Navbar';
+import Hero from './Components/Hero/Hero';
+import Programs from './Components/Programs/Programs'; // Corrected folder casing
+import Title from './Components/Title/Title';
+import About from './Components/About/About';
+import Campus from './Components/Campus/Campus'; // Corrected folder casing
+import Testimonials from './Components/Testimonials/Testimonials';
+import Contact from './Components/Contact/Contact';
+import Footer from './Components/Footer/Footer';
+import Videoplayer from './Components/Videoplayer/Videoplayer';
 
 
 const App = () => {
